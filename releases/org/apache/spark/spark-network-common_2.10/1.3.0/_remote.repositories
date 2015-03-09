@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 09 10:07:59 EET 2015
+spark-network-common_2.10-1.3.0-tests.jar>=
+spark-network-common_2.10-1.3.0-sources.jar>=
+spark-network-common_2.10-1.3.0.jar>=
+spark-network-common_2.10-1.3.0.pom>=
+spark-network-common_2.10-1.3.0-javadoc.jar>=

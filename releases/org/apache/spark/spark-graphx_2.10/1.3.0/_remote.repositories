@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 09 10:09:17 EET 2015
+spark-graphx_2.10-1.3.0.jar>=
+spark-graphx_2.10-1.3.0-sources.jar>=
+spark-graphx_2.10-1.3.0.pom>=
+spark-graphx_2.10-1.3.0-javadoc.jar>=
